@@ -1,1 +1,1 @@
-# Pixel-Sniper
+4.0.0
